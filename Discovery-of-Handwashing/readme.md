@@ -1,4 +1,2 @@
 # Discovery-of-Handwashing
-Ignaz Semmelweis, a Hungarian physician, makes a groundbreaking discovery in 1847: he discovers handwashing. Contaminated hands were a major cause of childbed fever, and he saved hundreds of lives by mandating handwashing at his hospital.  
-
-I reanalyzed the medical data Semmelweis collected in this article.
+This repository offers an opportunity to recreate Semmelweis' groundbreaking data analysis using a provided dataset. By delving into this project, users can test their proficiency in working with inline matplotlib and pandas for conducting bootstrap analysis, gaining valuable insights into statistical techniques employed by Semmelweis in his seminal work. Whether you're a beginner seeking to enhance your analytical skills or an experienced practitioner looking to delve into historical datasets, this repository provides an engaging platform to delve into the intricacies of data analysis through the lens of Semmelweis' pioneering work.
