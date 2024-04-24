@@ -16,5 +16,6 @@ Welcome to my collection of data science projects! In this repository, you'll fi
 - Matplotlib
 - Seaborn
 - SQL
+- Heroku
 
 Feel free to explore each project and don't hesitate to reach out if you have any questions or feedback!
