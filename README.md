@@ -13,5 +13,8 @@ Welcome to my collection of data science projects! In this repository, you'll fi
 - Pandas
 - NumPy
 - Scikit-learn
+- Matplotlib
+- Seaborn
+- SQL
 
 Feel free to explore each project and don't hesitate to reach out if you have any questions or feedback!
